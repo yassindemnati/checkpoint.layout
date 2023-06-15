@@ -1,0 +1,65 @@
+#section1{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#logostar{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color:#0c8877;
+}
+
+#paragraph{
+    display: flex;
+    padding: 10px;
+}
+#cards{
+
+.flexbox-container{
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-item{
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.flexbox-item-1{
+    min-height: 100px;
+    background-color:#00ccb1;
+
+}
+
+.flexbox-item-2{
+    min-height: 200px;
+    background-color:#3d83df;
+}
+
+.flexbox-item-3{
+    min-height: 300px;
+    background-color:#747474;
+}
+}
+
+#mainlogo{
+    height: 500px;
+    width: 400px;
+}
+
+h1{
+    color:#ffffff;
+}
+
+select{
+    background-color: transparent;
+    border: transparent;
+}
